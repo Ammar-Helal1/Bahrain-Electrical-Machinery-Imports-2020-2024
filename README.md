@@ -7,14 +7,14 @@ Between 2020 and 2024, Bahrain’s import trends show fluctuations in both value
 ---
 <img width="1110" height="628" alt="image" src="https://github.com/user-attachments/assets/b1895202-1053-4fad-8c22-f46402bc6e04" />
 
-## Findings & Insights:
+## Findings & Insights
 ---
 1. Total import value reached BD 2.21 billion.
 2. Total import quantity 627 million.
 3. China is the top supplier.
 4. Smartphones is top imported commodity.
 
-### Recommendations
+## Recommendations
 ---
 1. Encourage local manufacturing to reduce imports.
 2. Diversify import sources beyond China.
